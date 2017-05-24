@@ -23,3 +23,4 @@
 - http://chimera.labs.oreilly.com/books/1234000001802/ch07.html?intcmp=il-na-books-videos-lp-bc15_20141218_radar_mastering_bitcoin_excerpt_chapter_seven
 - https://bitcoin.stackexchange.com/questions/48959/why-is-bitcoin-core-using-leveldb-instead-of-redis-or-sqlite
 - http://wiki.dreamrunner.org/public_html/C-C++/Library-Notes/LevelDB.html
+- https://www.digitalocean.com/community/tutorials/docker-explained-using-dockerfiles-to-automate-building-of-images
